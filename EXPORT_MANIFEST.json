@@ -1,0 +1,84 @@
+{
+  "formatVersion": 1,
+  "product": "@mediafranca/pictos-composition-schema",
+  "version": "0.1.0",
+  "mode": "committed",
+  "source": {
+    "repository": "https://github.com/hspencer/pictos-net",
+    "commit": "f0f9fd8a6d02bf64c3b7a35750746471fb801afb",
+    "path": "schemas/pictos-composition-schema",
+    "dirty": false
+  },
+  "contentHash": "c239618b518b4f2d7fd21004edf5f96b3c8013a67b24db79ce160c7eef421a83",
+  "files": [
+    {
+      "path": "LICENSE",
+      "sha256": "b104ba20d51a980a97004f3c0665637cbe8b566964b19db8e1960140114ef32e",
+      "size": 771,
+      "executable": false
+    },
+    {
+      "path": "README.md",
+      "sha256": "22235a6aa6b04be3ecc06e1ad1cdbb794810789456811cc6764f53daf80ca03e",
+      "size": 3845,
+      "executable": false
+    },
+    {
+      "path": "index.js",
+      "sha256": "3ac745e7e43d3e9f8cbc73398628a226e3b6807d4063ed9ee12fa3242c86bb22",
+      "size": 2773,
+      "executable": false
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "23790a0b299a04ecb1939b99d50775695829e9fd5489874c8edbbd862f88dffd",
+      "size": 2418,
+      "executable": false
+    },
+    {
+      "path": "package.json",
+      "sha256": "8e9a1eb2fbf30ffa09b7c1075edff0eea7fbd9ca1cf01ca88caf61d9082a875f",
+      "size": 695,
+      "executable": false
+    },
+    {
+      "path": "pictogram-composition-0.1.0.schema.json",
+      "sha256": "27763fd2e17096e50ccbb01eb5ca53ccf588253f186e51662b8bc4076d494836",
+      "size": 2026,
+      "executable": false
+    },
+    {
+      "path": "pictogram-composition-provider-0.1.0.schema.json",
+      "sha256": "be452ab12b947b166762fffb5f8693228f6842b293d5e35d669c04832ce357d8",
+      "size": 1502,
+      "executable": false
+    },
+    {
+      "path": "scripts/build-validators.js",
+      "sha256": "1afa2228cb8dcac33c294eb8875abb57845b6db3e5f9a20793e3cc0732e2ae42",
+      "size": 462,
+      "executable": false
+    },
+    {
+      "path": "scripts/standalone-code.js",
+      "sha256": "4811c66435a848a166263f98db2a1e88c0a1010c46a7d259abbad003f5c62711",
+      "size": 2574,
+      "executable": false
+    },
+    {
+      "path": "tests/contracts.test.mjs",
+      "sha256": "a72704ebb692522009bb30387633642cc4e0a32516085a4f7ed1f923739b5d1c",
+      "size": 2682,
+      "executable": false
+    },
+    {
+      "path": "validators.js",
+      "sha256": "436e3c52b9c830f1a00a4836fa6bf213efd942d0c11e5a4add8a8988ac2dda48",
+      "size": 26680,
+      "executable": false
+    }
+  ],
+  "validation": "not-run",
+  "release": false,
+  "publication": "requires-separate-approval"
+}
