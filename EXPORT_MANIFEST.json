@@ -5,11 +5,11 @@
   "mode": "committed",
   "source": {
     "repository": "https://github.com/hspencer/pictos-net",
-    "commit": "f0f9fd8a6d02bf64c3b7a35750746471fb801afb",
+    "commit": "3945e2a45dc3e9cd93f23038a968b7d3cd55ec77",
     "path": "schemas/pictos-composition-schema",
     "dirty": false
   },
-  "contentHash": "c239618b518b4f2d7fd21004edf5f96b3c8013a67b24db79ce160c7eef421a83",
+  "contentHash": "77af0a4cd99e818f38dcb87cf49eb2221e44305fdb15b51c2a06d91a82971d2c",
   "files": [
     {
       "path": "LICENSE",
@@ -19,8 +19,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "22235a6aa6b04be3ecc06e1ad1cdbb794810789456811cc6764f53daf80ca03e",
-      "size": 3845,
+      "sha256": "3d27a9ec42f39039ab2e2c640eae35c417d39357ef7b7f6fcb785861a7be036b",
+      "size": 3866,
       "executable": false
     },
     {
